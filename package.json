@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-aws-s3-with-webp",
-  "version": "3.0.0-beta.20.3",
+  "version": "3.0.0-beta.20.4",
   "description": "AWS S3 provider for strapi upload",
   "homepage": "http://strapi.io",
   "keywords": [
@@ -15,8 +15,7 @@
   "main": "./lib",
   "dependencies": {
     "aws-sdk": "^2.457.0",
-    "lodash": "^4.17.11",
-    "sharp": "^0.25.2"
+    "lodash": "^4.17.11"
   },
   "strapi": {
     "isProvider": true
