@@ -20,14 +20,8 @@
   "strapi": {
     "isProvider": true
   },
-  "author": {
-    "email": "garrett.fritz.dev@gmail.com",
-    "name": "gfritzdev"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:gfritzdev/strapi-provider-upload-aws-s3-with-webp.git"
-  },
+  "author": "ABoyd002 <arran@arranboyd.tech>",
+  "repository": "git@github.com:ABoyd002/strapi-provider-upload-aws-s3-with-webp.git",
   "bugs": {
     "url": "https://github.com/strapi/strapi/issues"
   },
