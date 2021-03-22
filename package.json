@@ -15,13 +15,13 @@
   "main": "./lib",
   "dependencies": {
     "aws-sdk": "^2.756.0",
-    "sharp": "^0.22.2"
+    "sharp": "0.27.2"
   },
   "strapi": {
     "isProvider": true
   },
   "author": "ABoyd002 <arran@arranboyd.tech>",
-  "repository": "git@github.com:ABoyd002/strapi-provider-upload-aws-s3-with-webp.git",
+  "repository": "https://github.com/ABoyd002/strapi-provider-upload-aws-s3-with-webp.git",
   "bugs": {
     "url": "https://github.com/strapi/strapi/issues"
   },
